@@ -19,7 +19,10 @@ header {
 
 body {
 
-    background-image: url("https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fd2v9y0dukr6mq2.cloudfront.net%2Fvideo%2Fthumbnail%2FH8WuRINimqur8ud%2Ftechnology-background-gear_rhfg-imn_thumbnail-full01.png&f=1&nofb=1")
+    background-image: url("https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fd2v9y0dukr6mq2.cloudfront.net%2Fvideo%2Fthumbnail%2FH8WuRINimqur8ud%2Ftechnology-background-gear_rhfg-imn_thumbnail-full01.png&f=1&nofb=1");
+
+    font-family: 'Roboto Condensed', sans-serif;
+
 }
 
 #botoes {
