@@ -1,0 +1,24 @@
+h1,
+p {
+
+    text-align: center;
+
+
+}
+
+strong {
+
+    display: block;
+
+    margin: 2rem;
+}
+
+body {
+
+    background-color: aliceblue;
+
+    margin: 0rem;
+
+    font-family: 'Roboto Condensed', sans-serif;
+
+}
