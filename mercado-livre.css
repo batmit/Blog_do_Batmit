@@ -1,11 +1,8 @@
-h1,
-p {
+h1 {
 
     text-align: center;
 
-
 }
-
 strong {
 
     display: block;
@@ -15,7 +12,11 @@ strong {
 
 body {
 
-    background-color:  #9A9393;
+    /*background-color: aliceblue;*/
+
+
+    background-color: aliceblue;
+    
 
     margin: 0rem;
 
