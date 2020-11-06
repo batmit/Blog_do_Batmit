@@ -60,6 +60,7 @@ body {
 
     padding: 1rem;
 
+
  
 
     
@@ -78,9 +79,10 @@ body {
 
     line-height: 20;
 
-    padding: 4rem;
+    padding: 3rem;
 
     background-color: red;
+
     border-radius: 0.8rem;
 
     transition: background 1s;
@@ -134,7 +136,18 @@ body {
 
         padding: 1rem;
         
-        margin: 1rem;
+        margin: 0rem;
+
+
+    }
+
+    #classes a .mat {
+
+        display: inline;
+
+        padding: 0;
+
+        margin: 0;
 
     }
 
@@ -174,3 +187,8 @@ body {
 
 } 
 
+@media (max-width: 380px) and (min-height: 600px) {
+
+
+
+}
