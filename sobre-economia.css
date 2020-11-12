@@ -1,4 +1,4 @@
-#articles {
+#articles a {
 
     display: block;
 
@@ -28,7 +28,7 @@
 
 }
 
-#articles:hover {
+#articles a:hover {
 
 
     background-color:white
