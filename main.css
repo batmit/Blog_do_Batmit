@@ -38,7 +38,11 @@ body {
 
 #botoes .primeiro {
 
-    margin-left: 30%;
+    margin-left: 25rem;
+    /*text-align: "center";*/
+
+
+  
 
 }
 
@@ -101,7 +105,7 @@ body {
 }
 
 
-@media (max-height: 840px) and (max-width: 600px) { /*para mobile menores*/
+@media (max-height: 840px) and (max-width: 1200px) { /*para mobile menores*/
 
     
     #botoes a{
