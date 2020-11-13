@@ -1,6 +1,6 @@
 function home() {
 
-    return "./index.html"
+    return (":)")
 
 }
 

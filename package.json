@@ -2,9 +2,8 @@
   "name": "Blog_do_Batmit",
   "version": "1.0.0",
   "description": "Irei colocar meu blog no ar. Falo sobre coisas que gosto.",
-  "main": "index.js",
+  "main": "index.html",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "next dev"
   },
   "repository": {
@@ -19,6 +18,7 @@
   },
   "homepage": "https://github.com/batmit/Blog_do_Batmit#readme",
   "dependencies": {
+    "express": "^4.17.1",
     "next": "^10.0.1",
     "node": "^15.2.0",
     "react": "^17.0.1",
