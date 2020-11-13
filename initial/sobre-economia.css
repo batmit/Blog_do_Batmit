@@ -1,0 +1,59 @@
+#articles a {
+
+    display: block;
+
+    margin: 3rem;
+
+    border-radius: 0.8rem;
+
+    background-color: #67e64d;
+
+
+    padding: 1rem;
+
+
+    border-bottom: 3px solid black;
+
+
+
+}
+
+#articles a {
+
+
+    text-decoration: none;
+
+    transition: 1s;
+
+
+}
+
+#articles a:hover {
+
+
+    background-color:white
+
+}
+
+body {
+
+    text-align: center;
+
+    text-decoration: none;
+
+    margin: 2rem;
+
+    /*background-color: #DC81E4;*/
+
+    background: linear-gradient(329.54deg, #29b6d1 0%, #00c7c7 100%);
+
+}
+
+main {
+
+    background-color: whitesmoke;
+    margin-bottom: 2rem;
+
+    border-radius: 0.8rem;
+
+}
