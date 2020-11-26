@@ -32,25 +32,27 @@ body {
 
 
     border-bottom: 3px  solid black;
+
+    text-align: center;
    
 
 }
 
 #botoes .primeiro {
 
-    margin-left: 25rem;
-    /*text-align: "center";*/
+    /*margin-left: 25rem;*/
+    text-align: "center";
 
 
   
 
 }
 
-#botoes .primo {
+/*#botoes .primo {
 
     margin-left:19rem;
 
-}
+}*/
 
 
 #botoes a {
