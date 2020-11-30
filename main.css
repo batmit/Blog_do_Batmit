@@ -106,6 +106,16 @@ body {
 
 }
 
+#down {
+
+    background-color: white;
+
+    border-radius: 0.8rem;
+
+    padding: 1rem;
+
+}
+
 
 @media (max-height: 840px) and (max-width: 1200px) { /*para mobile menores*/
 
